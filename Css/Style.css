@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:burlywood;
+}
+
+.logo{
+    text-decoration: dotted;
+    color: white;
+    display: flex;
+    gap: 10px;
+    background-color:brown;
+    padding: 20px;
+}
+
+
+.content{
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
+
+.Pollution{
+    padding: 20px;
+    margin: 20px;
+}
+
+.Pollution h3{
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+img{
+    width: 400px;
+    height: 200px;
+}
+
+.footer{
+    background-color: brown;
+    padding: 30px;
+}
+
+.copyright{
+    font-size: 15px;
+    text-align: center;
+    color: rgb(220, 92, 92);
+}
+
+.copyright img{
+    width: 10px;
+    height: 10px;
+}

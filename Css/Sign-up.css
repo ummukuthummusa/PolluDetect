@@ -1,0 +1,89 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: brown;
+    margin: 30px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    padding-bottom: 20px;
+}
+
+input{
+    width: 300px;
+    background-color: burlywood;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+}
+
+.name{
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 35%;
+    margin-right: 100px;
+}
+.number{
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 35%;
+    margin-right: 100px;
+}
+.email{
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 35%;
+    margin-right: 100px;
+}
+.Address{
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 35%;
+    margin-right: 100px;
+}
+.Reason{
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 35%;
+    margin-right: 100px;
+}
+.Availability{
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 35%;
+    margin-right: 100px;
+}
+.image{
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 35%;
+    margin-right: 100px;
+}
+.Resume{
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 35%;
+    margin-right: 100px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    padding-right: 10px;
+}
+
+button{
+    margin-left: 20%;
+    color:white;
+    background-color: burlywood;
+    width: 100px;
+    height: 30px;
+    margin-left: 70%;
+    margin-top: 10px;
+}
